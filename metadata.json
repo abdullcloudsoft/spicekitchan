@@ -1,0 +1,6 @@
+{
+  "name": "Spice Kitchen G-6",
+  "description": "Authentic Pakistani dining and traditional cuisine on Khayaban-e-Suhrawardy Road, Islamabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
